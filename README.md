@@ -1,7 +1,7 @@
 # uuid-test
 
 
-Quick UUID package performance testing. Look at `bench_test.go` for packages and test cases.
+Quick UUID package performance testing. Look at `bench_test.go` for packages and test cases. The formatter and included libs are licensed the same as the original sources.
 
 ## Results
 
